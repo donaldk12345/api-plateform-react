@@ -1,0 +1,12 @@
+@import '~bootstrap';
+.navbar {
+    background-color: #f7f7f7;
+    height: auto;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin: 10px;
+    list-style: none;
+    color: rgba(221, 111, 21, 0.568);
+}
